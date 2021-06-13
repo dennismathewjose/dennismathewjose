@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dennis Mathew Jose</h1>
+<h1># Hello, folks! I'm Dennis Mathew Jose. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
 <h3 align="center">A smart-working student who is interested in Data science and business analytics.</h3>
 
 -👨‍🎓 I’m currently an **ECE undergraduate student.**
@@ -22,4 +23,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennismathewjose)](https://github.com/dennismathewjose/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennismathewjose&show_icons=true&locale=en" alt="dennismathewjose" /></p>
+[![Dennis's github stats](https://github-readme-stats.vercel.app/api?username=dennismathewjose&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/dennismathewjose/github-readme-stats)
