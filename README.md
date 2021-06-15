@@ -4,7 +4,7 @@
 
 -👨‍🎓 I’m currently an **ECE undergraduate student.**
 
--👨‍💻 I’m currently learning **Data science, ML**
+-👨‍💻 Developing skills in **Data science, ML**
 
 -🏫I’m studying at [Government Engineering College, Thrissur](gectcr.ac.in)
 
