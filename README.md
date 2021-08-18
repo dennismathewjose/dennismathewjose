@@ -5,7 +5,6 @@
 ![version :04.03.2021](https://img.shields.io/badge/version-04.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=dennismathewjose&color=red)&nbsp;
 [![GitHub dennismathewjose](https://img.shields.io/github/followers/dennismathewjose?label=follow&style=social)](https://github.com/dennismathewjose)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
 
 
 <h3 align="left">A smart-working student who is interested in Data science and business analytics.</h3>
