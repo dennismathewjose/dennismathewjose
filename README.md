@@ -6,7 +6,7 @@
 [![GitHub dennismathewjose](https://img.shields.io/github/followers/dennismathewjose?label=follow&style=social)](https://github.com/dennismathewjose)&nbsp;
 
 
-A smart-working B.tech Electronics and Communication undergraduate student who is very much interested in the field of Data Science and blockchain technology. I want to pursue a career in the field of Data Science. I’m experienced in programming languages like Python, and C++ and a beginner in Solidity. Also, I’m a dedicated learner and always wish to gain experience and develop my skills.
+A smart-working B.tech Electronics and Communication undergraduate student who is very much interested in the field of Data Science and programming. I want to pursue a career in the field of Data Science. I’m experienced in programming languages like Python, C++ and Java. Also, I’m a dedicated learner and always wish to gain experience and develop my skills.
 
 I love watching movies and listening to music. I love solving sudoku puzzles during my free time.
 
