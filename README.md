@@ -17,10 +17,27 @@ Besides my professional and volunteering endeavours, I love watching movies, lis
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://www.w3.org/html/" target="_blank"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"><a href="https://www.java.com" target="_blank" rel="noreferrer"></a>
+ <p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/in/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="plsql" width="40" height="40"/>
+  </a>
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennismathewjose&layout=compact)](https://github.com/dennismathewjose/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennismathewjose&layout=compact&hide=html,css&langs_count=6&theme=radical)
+
 
 [![Dennis's github stats](https://github-readme-stats.vercel.app/api?username=dennismathewjose&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/dennismathewjose/github-readme-stats)
 
