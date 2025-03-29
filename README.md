@@ -6,7 +6,7 @@
 [![GitHub dennismathewjose](https://img.shields.io/github/followers/dennismathewjose?label=follow&style=social)](https://github.com/dennismathewjose)&nbsp;
 
 ## Profile
-Hi, I'm Dennis Mathew Jose, a passionate Data Analytics Engineer with a background in Electronics and Communication Engineering. Currently pursuing a Master’s degree in Data Analytics Engineering at Northeastern University, I am focused on solving complex problems using data-driven approaches. My expertise lies in machine learning, data processing, and database management, and I am always eager to learn and apply new technologies.
+A passionate Data Analytics/ML Engineer with a background in Electronics and Communication Engineering. Currently pursuing a Master’s degree in Data Analytics Engineering at Northeastern University, I am focused on solving complex problems using data-driven approaches. My expertise lies in machine learning, data processing, and database management, and I am always eager to learn and apply new technologies.
 
 ### 📈 Currently Learning
 - **Applied NLP** : Language Models & N-Grams, Vector Semantics & Embeddings, Neural Networks for NLP, Transformers & Attention Mechanisms , Machine Translation, Summarization, &
