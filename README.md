@@ -8,7 +8,7 @@
 ## Profile
 A passionate Data Analytics/ML Engineer with a background in Electronics and Communication Engineering. Currently pursuing a Master’s degree in Data Analytics Engineering at Northeastern University, I am focused on solving complex problems using data-driven approaches. My expertise lies in machine learning, data processing, and database management, and I am always eager to learn and apply new technologies.
 
-### 📈 Currently Learning
+### 📈 Currently Learning | [Blog](https://medium.com/@dennismjose)
 - **Applied NLP** : Language Models & N-Grams, Vector Semantics & Embeddings, Neural Networks for NLP, Transformers & Attention Mechanisms , Machine Translation, Summarization, &
 Generation
 - **Data Mining in engineering** : Data Visualization, Feature Engineering, Dimension Reduction, Performance Evaluation, Regressions, Decision Trees, Neural Networks
@@ -28,7 +28,7 @@ Generation
 - Managed **Oracle Database systems** to ensure high availability and performance for critical financial applications.
 
 ---
-## Technical Skills
+## Technical Skills 
 
 - <h4> 🛠️ <b>Software/Tools:</b>  Tableau, Microsoft Office Suite, Anaconda, Database Management, Apache Spark, Apache Kafka, Jupyter Lab<br>
 - 🏗️ <b>Hardware:</b>  Raspberry Pi, Arduino, 8051 Microcontroller<br>
