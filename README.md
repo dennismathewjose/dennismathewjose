@@ -41,7 +41,8 @@ Generation
 
 ### [Transforming Financial Disclosure Analysis with Generative AI](https://github.com/dennismathewjose/Financial-ChatBot--BCG-Gen-AI-Forage-)
 *April 2025 - PRESENT*
-An AI powered financial chatbot
+- An AI powered financial chatbot that extract and analyze key financial data from the client's 10-K and 10-Q documents
+- Enhancing  the traditional, time-consuming financial analysis workflows with a scalable, intelligent, and interactive solution powered by Generative AI and NLP (Natural Language Processing).
 
 ### [MultiModal modeling of Compound BioActivity](#)  
 *January 2025 – PRESENT*  
