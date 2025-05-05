@@ -39,7 +39,11 @@ Generation
 
 ## Currently Working On
 
-### [ML-powered Drug Discovery using ChEMBL Data](#)  
+### [Transforming Financial Disclosure Analysis with Generative AI](https://github.com/dennismathewjose/Financial-ChatBot--BCG-Gen-AI-Forage-)
+*April 2025 - PRESENT*
+An AI powered financial chatbot
+
+### [MultiModal modeling of Compound BioActivity](#)  
 *January 2025 – PRESENT*  
 A machine-learning model to predict drug bioactivity and accelerate early-stage drug discovery.
 - Engineered predictive models using **cheminformatics** and **bioinformatics** techniques to estimate compound binding affinity (pIC50) based on molecular descriptors.
