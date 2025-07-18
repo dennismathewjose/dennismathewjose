@@ -39,6 +39,12 @@ Generation
 
 ## Currently Working On
 
+
+### [Customer Churn Prediction for Risk Mitigation in Retail Banking](https://github.com/dennismathewjose/Customer-Churn-Prediction) 
+*June 2025 – PRESENT*  
+Engineered machine learning models (XGBoost, MLP, Logistic Regression, Decision Trees) to predict customer churn using structured customer behavior and transaction data, enabling early risk detection and performance enhancement.
+-	Conducted statistical hypothesis testing (Chi-square, t-test, ANOVA) and multivariate data analysis (MVDA) to extract insights from high-dimensional data, mimicking real-world ML applications like anomaly detection and decision support.
+
 ### [Transforming Financial Disclosure Analysis with Generative AI](https://github.com/dennismathewjose/Financial-ChatBot--BCG-Gen-AI-Forage-)
 *April 2025 - PRESENT*
 - An AI powered financial chatbot that extract and analyze key financial data from the client's 10-K and 10-Q documents
@@ -49,12 +55,6 @@ Generation
 A machine-learning model to predict drug bioactivity and accelerate early-stage drug discovery.
 - Engineered predictive models using **cheminformatics** and **bioinformatics** techniques to estimate compound binding affinity (pIC50) based on molecular descriptors.
 - Implemented **data preprocessing**, **feature engineering**, and **model optimization** to improve predictive accuracy, aiding researchers in prioritizing promising drug candidates.
-
-### [Plot-Based Movie Recommendation System using NLP](https://github.com/dennismathewjose/MovieRecommendationSystem)  
-*February 2025 – PRESENT*  
-A content-based movie recommendation system leveraging **Sentence-BERT** to analyze plot summaries.
-- Developed a **movie recommendation system** using **Sentence-BERT** for theme-based searches with efficient cosine similarity and **FAISS indexing**.
-- Built a data pipeline integrating **TMDB** and **IMDb APIs**, ensuring data quality through deduplication, normalization, and preprocessing to enhance recommendation accuracy.
 
 ---
 
