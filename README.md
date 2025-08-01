@@ -39,6 +39,10 @@ Generation
 
 ## Currently Working On
 
+### [Santander Product Recommendation](https://github.com/Santander-Product-Recsys)
+*July 2025 - PRESENT*
+
+This project analyzes customer demographics and behavior using the Santander product recommendation dataset. The focus is on understanding customer distribution, gender dynamics, and age patterns across three main banking segments.
 
 ### [Customer Churn Prediction for Risk Mitigation in Retail Banking](https://github.com/dennismathewjose/Customer-Churn-Prediction) 
 *June 2025 – PRESENT*  
@@ -49,12 +53,6 @@ Engineered machine learning models (XGBoost, MLP, Logistic Regression, Decision 
 *April 2025 - PRESENT*
 - An AI powered financial chatbot that extract and analyze key financial data from the client's 10-K and 10-Q documents
 - Enhancing  the traditional, time-consuming financial analysis workflows with a scalable, intelligent, and interactive solution powered by Generative AI and NLP (Natural Language Processing).
-
-### [MultiModal modeling of Compound BioActivity](https://github.com/dennismathewjose/Multi-Modal-Modeling-of-a-Compound-BioActivity)  
-*January 2025 – PRESENT*  
-A machine-learning model to predict drug bioactivity and accelerate early-stage drug discovery.
-- Engineered predictive models using **cheminformatics** and **bioinformatics** techniques to estimate compound binding affinity (pIC50) based on molecular descriptors.
-- Implemented **data preprocessing**, **feature engineering**, and **model optimization** to improve predictive accuracy, aiding researchers in prioritizing promising drug candidates.
 
 ---
 
