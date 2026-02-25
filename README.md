@@ -44,7 +44,7 @@ Generation
 
 This project analyzes customer demographics and behavior using the Santander product recommendation dataset. The focus is on understanding customer distribution, gender dynamics, and age patterns across three main banking segments.
 
-### [Customer Churn Prediction for Risk Mitigation in Retail Banking](https://github.com/dennismathewjose/Customer-Churn-Prediction) 
+### [Customer Churn Prediction for Risk Mitigation in Retail Banking](https://github.com/dennismathewjose/IE7374-MLOPs/tree/main/LABS/FLASK_GCP_LAB)
 *June 2025 – PRESENT*  
 Engineered machine learning models (XGBoost, MLP, Logistic Regression, Decision Trees) to predict customer churn using structured customer behavior and transaction data, enabling early risk detection and performance enhancement.
 -	Conducted statistical hypothesis testing (Chi-square, t-test, ANOVA) and multivariate data analysis (MVDA) to extract insights from high-dimensional data, mimicking real-world ML applications like anomaly detection and decision support.
