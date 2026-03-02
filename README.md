@@ -5,26 +5,22 @@
 [![GitHub dennismathewjose](https://img.shields.io/github/followers/dennismathewjose?label=follow&style=social)](https://github.com/dennismathewjose)&nbsp;
 
 ## Profile
-A passionate Data Analytics/ML Engineer with a background in Electronics and Communication Engineering. Currently pursuing a Master’s degree in Data Analytics Engineering at Northeastern University, I am focused on solving complex problems using data-driven approaches. My expertise lies in machine learning, data processing, and database management, and I am always eager to learn and apply new technologies.
+Data Scientist & ML Engineer with a focus on clinical AI, NLP, and healthcare data systems. Currently pursuing a Master's in Data Analytics Engineering at Northeastern University. My work sits at the intersection of machine learning and healthcare — building AI pipelines that extract structured insights from messy clinical data. I'm particularly interested in RAG architectures, local LLM inference for privacy-sensitive environments, and building production-grade tools that clinicians can actually trust and use.
 
-### 📈 Currently Learning | [Blog](https://medium.com/@dennismjose)
-- **Applied NLP** : Language Models & N-Grams, Vector Semantics & Embeddings, Neural Networks for NLP, Transformers & Attention Mechanisms , Machine Translation, Summarization, &
-Generation
-- **Data Mining in engineering** : Data Visualization, Feature Engineering, Dimension Reduction, Performance Evaluation, Regressions, Decision Trees, Neural Networks
-- **Advanced SQL** and Data Warehousing
-- **Docker & Kubernetes** for containerization and deployment
-- **Big Data Technologies**: Exploring Apache Kafka and Spark for scalable data processing and Apache Airflow for Data Orchestration
+## Currently Working On
 
-## Professional Experience
+### [Uncertainty-Aware-Molecular-Property-Prediction](https://github.com/dennismathewjose/Uncertainty-Aware-Molecular-Property-Prediction/tree/main)
+*Capstone Research Project*
 
-### Oracle, Bengaluru, India  
-**Associate Consultant**  
-*July 2023 – July 2024*
 
-- Customized Oracle banking applications using **JAVA** and **PL/SQL**, enhancing system performance and aligning with client-specific requirements.
-- Developed custom solutions within the **OBPM module** of **Oracle Flexcube** to automate **MX payment messages**, improving transaction efficiency and compliance.
-- Collaborated with cross-functional teams to analyze client requirements and deliver targeted solutions for seamless integration.
-- Managed **Oracle Database systems** to ensure high availability and performance for critical financial applications.
+Capstone project combining chemical foundation models (ChemBERTa) with uncertainty quantification techniques for drug discovery applications. Implements Monte Carlo Dropout, Deep Ensembles, and Temperature Scaling to provide calibrated confidence estimates alongside bioactivity predictions. Includes a multimodal Vision-Language Model pipeline using GPT-4V to extract compound bioactivity data from scientific literature.
+
+
+### [TraumaInsight-LLM-Powered-Entity-Extraction-Engine](https://github.com/dennismathewjose/TraumaInsight-LLM-Powered-Entity-Extraction-Engine)
+*Personal Project*
+
+Clinical NLP system for extracting structured medical entities from unstructured trauma reports. Leverages LLM-powered entity extraction to identify injuries, procedures, and clinical findings, supporting downstream clinical decision-making and research workflows.
+
 
 ---
 ## Technical Skills 
@@ -35,37 +31,12 @@ Generation
 - 🤖 <b>Machine Learning Skills:</b>  Data Processing, Data Cleaning, Outlier Detection, Data Modeling, Predictive Analytics, Statistical Modeling, Applied Natural Language Processing (NLP), Writing ETL Scripts<br>
 - 🖥️ <b>Languages:</b>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></h4>
 
-
-
-## Currently Working On
-
-### [Santander Product Recommendation](https://github.com/Santander-Product-Recsys)
-*July 2025 - PRESENT*
-
-This project analyzes customer demographics and behavior using the Santander product recommendation dataset. The focus is on understanding customer distribution, gender dynamics, and age patterns across three main banking segments.
-
-### [Customer Churn Prediction for Risk Mitigation in Retail Banking](https://github.com/dennismathewjose/IE7374-MLOPs/tree/main/LABS/FLASK_GCP_LAB)
-*June 2025 – PRESENT*  
-Engineered machine learning models (XGBoost, MLP, Logistic Regression, Decision Trees) to predict customer churn using structured customer behavior and transaction data, enabling early risk detection and performance enhancement.
--	Conducted statistical hypothesis testing (Chi-square, t-test, ANOVA) and multivariate data analysis (MVDA) to extract insights from high-dimensional data, mimicking real-world ML applications like anomaly detection and decision support.
-
-### [Transforming Financial Disclosure Analysis with Generative AI](https://github.com/dennismathewjose/Financial-ChatBot--BCG-Gen-AI-Forage-)
-*April 2025 - PRESENT*
-- An AI powered financial chatbot that extract and analyze key financial data from the client's 10-K and 10-Q documents
-- Enhancing  the traditional, time-consuming financial analysis workflows with a scalable, intelligent, and interactive solution powered by Generative AI and NLP (Natural Language Processing).
-
 ---
 
 ## Outside of Work
-When I'm not immersed in data analytics, I enjoy exploring my interests in **Formula 1**, solving **Sudoku puzzles**, and reading & writing **technical blogs**.
+When I'm not immersed in research, I enjoy following **Formula 1**, solving **Sudoku puzzles**, and reading & writing **technical blogs**.
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennismathewjose&layout=compact&hide=html,css&langs_count=6&theme=radical)
-
-
-[![Dennis's github stats](https://github-readme-stats.vercel.app/api?username=dennismathewjose&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/dennismathewjose/github-readme-stats)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
