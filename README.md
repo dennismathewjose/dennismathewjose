@@ -16,10 +16,10 @@ Data Scientist & ML Engineer with a focus on clinical AI, NLP, and healthcare da
 Capstone project combining chemical foundation models (ChemBERTa) with uncertainty quantification techniques for drug discovery applications. Implements Monte Carlo Dropout, Deep Ensembles, and Temperature Scaling to provide calibrated confidence estimates alongside bioactivity predictions. Includes a multimodal Vision-Language Model pipeline using GPT-4V to extract compound bioactivity data from scientific literature.
 
 
-### [TraumaInsight-LLM-Powered-Entity-Extraction-Engine](https://github.com/dennismathewjose/TraumaInsight-LLM-Powered-Entity-Extraction-Engine)
-*Personal Project*
+### [AI-Enabled Structuring of ARIA Guide Clinical Recommendations](https://github.com/dennismathewjose/KIDS26-Team3)
+*St. Jude KIDS26 BioHackathon Challenge*
 
-Clinical NLP system for extracting structured medical entities from unstructured trauma reports. Leverages LLM-powered entity extraction to identify injuries, procedures, and clinical findings, supporting downstream clinical decision-making and research workflows.
+Project focuses on automatically transforming narrative clinical recommendations into structured, machine-readable formats suitable for downstream guideline management and digital implementation. Participants will develop an AI-assisted pipeline capable of extracting recommendation elements such as diagnoses, treatment guidance, risk stratification, and clinical notes from Word documents and mapping them into standardized templates. The solution will combine natural language processing with transparent validation workflows. 
 
 
 ---
